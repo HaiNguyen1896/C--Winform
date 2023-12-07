@@ -1,0 +1,11 @@
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\bin\Debug\AutoCreate.exe.config
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\bin\Debug\AutoCreate.exe
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\bin\Debug\AutoCreate.pdb
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\obj\Debug\AutoCreate.csproj.AssemblyReference.cache
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\obj\Debug\AutoCreate.csproj.SuggestedBindingRedirects.cache
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\obj\Debug\AutoCreate.Properties.Resources.resources
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\obj\Debug\AutoCreate.csproj.GenerateResource.cache
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\obj\Debug\AutoCreate.csproj.CoreCompileInputs.cache
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\obj\Debug\AutoCreate.exe
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\obj\Debug\AutoCreate.pdb
+E:\Work\HocC#\WinForm\AutoCreateTtxtFileAndFolder\AutoCreate\obj\Debug\AutoCreate.Form1.resources
