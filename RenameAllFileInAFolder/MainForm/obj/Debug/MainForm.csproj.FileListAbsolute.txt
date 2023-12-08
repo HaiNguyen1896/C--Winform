@@ -1,0 +1,11 @@
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\bin\Debug\MainForm.exe.config
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\bin\Debug\MainForm.exe
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\bin\Debug\MainForm.pdb
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\obj\Debug\MainForm.csproj.SuggestedBindingRedirects.cache
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\obj\Debug\MainForm.exe
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\obj\Debug\MainForm.pdb
+E:\Work\HocC#\WinForm\RenameAllFileInAFolder\MainForm\obj\Debug\MainForm.Form1.resources
